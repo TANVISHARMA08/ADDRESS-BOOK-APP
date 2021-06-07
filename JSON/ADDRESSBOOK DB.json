@@ -1,0 +1,22 @@
+{
+    "AddressBookDB": [
+      {
+        "_fullName": "Tanvi Sharma",
+        "_address": "Ghaziabad",
+        "_phoneNumber": "8920771668",
+        "_city": "Ghaziabad",
+        "_state": "UP",
+        "_zip": "201009",
+        "id": 1
+      },
+      {
+        "_fullName": "Prashant",
+        "_address": "Ara",
+        "_phoneNumber": "7992252812",
+        "_city": "Ara",
+        "_state": "BIHAR",
+        "_zip": "138993",
+        "id": 2
+      }
+    ]
+  }
